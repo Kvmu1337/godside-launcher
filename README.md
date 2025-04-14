@@ -8,7 +8,7 @@
 
 ## 👋 Introduction
 
-Welcome to the official launcher for GodSide! This launcher provides a secure, seamless, and user-friendly way to load and manage your favorite GTA V enhancement suite. Designed with performance and user experience in mind, it includes unique features like a user rank system and real-time subscription status checks.
+unfortunately or fortunately for others, I stopped creating cheats, so I'm going to leave you the launcher I created for my cheat.
 
 ---
 
