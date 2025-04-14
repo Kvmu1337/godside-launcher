@@ -63,4 +63,4 @@ This project is licensed under the [Your License Name] License - see the [LICENS
 
 ---
 
-Made with ❤️ and lots of code! (is NOT maded by me from scratch, is based from a other open source launcher)
+Made with ❤️ and lots of code!
