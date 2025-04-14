@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)](https://github.com/[YourUsername]/[YourRepo])
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/[YourUsername]/[YourRepo])
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md) **Your Ultimate Gateway to an Enhanced Grand Theft Auto V Experience!** ✨
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md) ✨
 
 ---
 
