@@ -44,50 +44,9 @@ Welcome to the official launcher for GodSide! This launcher provides a secure, s
 
 ---
 
-## 💡 Usage Guide
-
-* **Logging In:** Use the username and password associated with your cheat account.
-* **Dashboard Overview:**
-    * **Username:** Displays your logged-in username.
-    * **Rank:** Shows your current rank icon and title (e.g., 🥉 Bronze, 🥈 Silver, 🥇 Gold, 💎 Platinum).
-    * **Subscription Status:** Indicates whether your cheat subscription is `Active ✅` or `Inactive ❌`.
-    * **Launch Button:** Initiates the cheat injection process into GTA V.
-    * **Status Bar:** Provides feedback on the launcher's operations (e.g., "Connecting...", "Injecting...", "Ready").
-
----
-
-## 🏆 Rank System Explained
-
-Our unique rank system adds a touch of prestige and recognition! Your rank is determined by factors such as:
-
-* **Subscription Tier:** Higher subscription levels may grant higher base ranks.
-* **Account Age:** Long-term users might gain rank progression.
-* **(Other factors - customize this!):** e.g., community contributions, special events.
-
-**Ranks:**
-* 🥉 **Bronze:** Standard access.
-* 🥈 **Silver:** Recognized user.
-* 🥇 **Gold:** Veteran user / Premium subscriber.
-* 💎 **Platinum:** Top-tier subscriber / Contributor.
-
-*(Adjust the ranks, criteria, and icons as needed!)*
-
----
-
-## 💳 Subscription Status
-
-The launcher clearly displays your current subscription status:
-
-* **Active ✅:** Your subscription is current, and all associated features are unlocked. You're ready to go!
-* **Inactive ❌:** Your subscription has expired or is not found. You may need to renew your subscription on our website [Link to your website/purchase page] to continue using the cheat.
-
-Access to certain features or specific cheat modules might depend on an active subscription.
-
----
-
 ## 🤝 Contributing (Optional)
 
-We welcome contributions! If you'd like to help improve the launcher, please refer to our `CONTRIBUTING.md` file (you'll need to create this file if you want contributions).
+We welcome contributions! If you'd like to help improve the launcher, please refer to our `CONTRIBUTING.md` file.
 
 ---
 
