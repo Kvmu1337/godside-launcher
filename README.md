@@ -1,8 +1,8 @@
 # 🚀 Project GodSide Launcher 🚀
 
-[![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)](https://github.com/[YourUsername]/[YourRepo])
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/[YourUsername]/[YourRepo])
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md) ✨
+[![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)](https://github.com/Kvmu1337/godside-launcher)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/Kvmu1337/godside-launcher)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
 
 ---
 
