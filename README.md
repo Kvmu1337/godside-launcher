@@ -25,9 +25,9 @@ unfortunately or fortunately for others, I stopped creating cheats, so I'm going
 
 ## 📸 Screenshots
 
-![Launcher Login Screen](placeholder_login.png) *Caption: Clean and secure login interface.*
+![Launcher Login Screen](https://i.ibb.co/ymqC5F41/Screenshot-1.png) *Caption: Clean and secure login interface.*
 
-![Launcher Main Dashboard](placeholder_dashboard.png) *Caption: Dashboard showing Rank and Subscription Status.*
+![Launcher Main Dashboard](https://i.ibb.co/VYTCYT2b/Screenshot-2.png) *Caption: Dashboard showing Rank and Subscription Status.*
 
 ---
 
