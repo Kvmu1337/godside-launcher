@@ -91,12 +91,10 @@ We welcome contributions! If you'd like to help improve the launcher, please ref
 
 ---
 
-## 📞 Support & Contact
+## 📞 Support
 
 Encountering issues?
-* Check the [Issues](https://github.com/[YourUsername]/[YourRepo]/issues) section.
-* Join our Discord Server: [Link to your Discord]
-* Contact support via: [Your Support Email/Website]
+* Check the [Issues](https://github.com/Kvmu1337/godside-launcher/issues) section.
 
 ---
 
