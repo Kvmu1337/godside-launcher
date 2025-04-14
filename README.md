@@ -19,7 +19,6 @@ unfortunately or fortunately for others, I stopped creating cheats, so I'm going
 * **🏆 Integrated Rank System:** Climb the ranks based on your status and engagement!
 * **✅ Real-time Subscription Check:** Instantly see if your subscription is active.
 * **⚡ Fast & Reliable Injection:** Get in-game quickly and securely.
-* **🔄 Automatic Updates:** (Optional: If you implement this) Stay up-to-date with the latest launcher and cheat versions automatically.
 * **⚙️ Database:** It does use MySQL, for accounts and others things.
 
 ---
